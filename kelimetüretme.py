@@ -27,7 +27,7 @@ sonharf="a"
 kelimelog=[]
 
 Open=True
-def kelimetüret(user, m, userscore):
+def kelimetüret(user, m):
     global sonharf
     
 
